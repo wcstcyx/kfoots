@@ -1,5 +1,5 @@
 #include <Rcpp.h>
-#include "array.cpp"
+#include "../inst/include/array.cpp"
 
 //the purpose of these functions is explained at the bottom of the document
 
