@@ -1,5 +1,5 @@
 #include <Rcpp.h>
-#include "array.cpp"
+#include "../inst/include/array.cpp"
 #include "tabbing.h"
 #include <algorithm> 
 #include <unordered_map>
