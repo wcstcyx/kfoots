@@ -1,5 +1,5 @@
 #include <Rcpp.h>
-#include "core.cpp"
+#include "../inst/include/core.cpp"
 #include "schedule.cpp"
 
 template <typename T>
